@@ -95,7 +95,3 @@ pandas
 **Rho** diverges between calls and puts — calls gain value as rates rise (higher cost of carry makes the right to buy more valuable), puts lose value.
 
 ---
-
-## Author
-
-**Namann Bhan** · [GitHub](https://github.com/NamannBhan) · [LinkedIn](https://linkedin.com/in/yourprofile)
