@@ -2,7 +2,8 @@
 
 An interactive derivative pricing dashboard built with Python and Streamlit. Input any market assumptions — spot price, strike, volatility, time to expiry, risk-free rate — and instantly visualize how the option price and all five Greeks respond.
 
-**Live:** [bsm-option-pricing-model2-namann.streamlit.app](https://bsm-option-pricing-model2-namann.streamlit.app/#made-by-namann-bhan)
+**Live:** [[bsm-option-pricing-model2-namann.streamlit.app](https://bsm-option-pricing-model2-namann.streamlit.app/#made-by-namann-bhan)](https://option-greeks-pricer-pftespyynbzwqmhm4jz2hp.streamlit.app
+)
 
 ---
 
