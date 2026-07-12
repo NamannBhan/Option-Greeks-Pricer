@@ -4,11 +4,12 @@ To run the file, copy paste this into browser
 https://bsm-option-pricing-model2-namann.streamlit.app/#made-by-namann-bhan
 
 """
+import matplotlib
+matplotlib.use("Agg")
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy.stats import norm 
 import warnings
 warnings.filterwarnings('ignore')
 
