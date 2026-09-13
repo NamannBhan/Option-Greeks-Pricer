@@ -2,7 +2,7 @@
 
 An interactive derivative pricing dashboard built with Python and Streamlit. Input any market assumptions — spot price, strike, volatility, time to expiry, risk-free rate — and instantly visualize how the option price and all five Greeks respond.
 
-**Live:** https://option-greeks-pricer-pftespyynbzwqmhm4jz2hp.streamlit.app
+**Live:** https://option-greeks-pricer-pftespyynbzwqmhm4jz2hp.streamlit.app (note: it can take few seconds to load on Streamlit)
 )
 
 ---
